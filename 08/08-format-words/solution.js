@@ -2,7 +2,6 @@
 
 function formatWords(words) {
   let newArray = [];
-  
   for (let i in words) {
     if(words[i] !== '') {
       newArray.push(words[i]);
