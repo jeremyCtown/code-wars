@@ -1,14 +1,12 @@
 'use strict';
 
 function capitalize(s,arr){
-let newArray = s.split('');
+  let newArray = s.split('');
 
-for (let i in newArray) {
-  for (let j in arr) {
-    if(i = arr[j]) {
-      newArray[i].toUpperCase;
-    }
+  for (let i in arr) {
+    if (newArray[arr[i]]) {
+      newArray[arr[i]] = newArray[arr[i]].toUpperCase();
+   }
   }
-}
   return newArray.join('');
-};
+}

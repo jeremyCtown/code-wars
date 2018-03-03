@@ -4,7 +4,7 @@
 Indexed Capitalization
 
 ### Time Spent
-30 mins 
+45 mins 
 
 ## Link
 https://www.codewars.com/kata/indexed-capitalization/train/javascript
@@ -13,3 +13,4 @@ https://www.codewars.com/kata/indexed-capitalization/train/javascript
 Not yet working, will do over the weekend
 
 ## Sources Used
+N/A
